@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 import static javax.management.Query.and;
 
+
 public class Main {
     public static <c> void main(String[] args) {
 
